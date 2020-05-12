@@ -1,0 +1,27 @@
+{
+  "name": "weatherforecaster",
+  "version": "1.0.0",
+  "description": "Weather forecast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nwachuks/WeatherForecaster.git"
+  },
+  "keywords": [
+    "Weather",
+    "Forecaster"
+  ],
+  "author": "Nwachukwu Ejiofor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nwachuks/WeatherForecaster/issues"
+  },
+  "homepage": "https://github.com/Nwachuks/WeatherForecaster#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "unirest": "^0.6.0"
+  }
+}
